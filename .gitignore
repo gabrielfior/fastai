@@ -5,6 +5,9 @@ tmp*
 tags
 data
 
+# links to ML videos of USF
+/Users/gabrielfior/fastai/courses/ml1/links_for_videos.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -117,3 +120,5 @@ ENV/
 ehthumbs.db
 Thumbs.db
 .idea
+
+
